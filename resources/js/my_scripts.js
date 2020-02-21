@@ -180,10 +180,6 @@ function loadPlayersPage()
 	}
 }
 
-function hello()
-{
-	alert("IT WORKS");
-}
 function switchPlayers(playerNum)
 {
 	var curr = players[playerNum];
